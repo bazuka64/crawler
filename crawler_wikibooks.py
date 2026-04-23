@@ -53,7 +53,7 @@ def main():
 
         results.append({
             "title": title,
-            "summary": summary,  
+            "summary": summary,   
             "url": url,
             "fetched_at": datetime.now().isoformat(),
         })
