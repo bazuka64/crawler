@@ -1,0 +1,40 @@
+arXiv
+Reddit
+HackerNews 
+twitter
+ニコニコ大百科
+
+Wikimedia公式ファミリー（全部同じAPI構造）
+
+Wiktionary — 辞書・語源
+Wikiquote — 名言集
+Wikivoyage — 旅行ガイド
+Wikisource — 著作権切れの本・文書
+Wikinews — ニュース
+Wikispecies — 生物の分類
+Wikibooks — 教科書・ハウツー
+ゲーム・アニメ系Wiki（Fandom/Wikia、MediaWiki API使える）
+
+Bulbapedia — ポケモン
+Minecraft Wiki
+FGO wiki
+グラブル wiki
+艦これ wiki
+ウマ娘 wiki
+ロマサガ wiki
+ドラクエ wiki
+FF wiki
+ユーモア・パロディ系
+
+Uncyclopedia（英語版） — アンサイクロペディアの本家
+RationalWiki — 疑似科学をツッコむwiki
+技術・専門系（MediaWiki）
+
+ArchWiki — Linuxの設定情報
+Gentoo Wiki
+Mozilla Wiki
+日本語独自wiki（API非標準 or スクレイピング必要）
+
+ニコニコ大百科
+ピクシブ百科事典
+アンサイクロペディア（さっきブロックされたやつ）

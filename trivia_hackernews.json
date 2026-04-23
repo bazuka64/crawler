@@ -1,0 +1,92 @@
+[
+  {
+    "title": "太陽光発電の世界的な成長は「あらゆる発電源としては史上最大」",
+    "title_en": "Global growth in solar \"the largest ever observed for any source\"",
+    "body": "",
+    "score": 104,
+    "by": "tambourine_man",
+    "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+    "fetched_at": "2026-04-23T16:27:53.033021"
+  },
+  {
+    "title": "新しい研究では、エネルギー用のトウモロコシの栽培と太陽光発電を比較",
+    "title_en": "New study compares growing corn for energy to solar production",
+    "body": "",
+    "score": 87,
+    "by": "dotcoma",
+    "url": "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/",
+    "fetched_at": "2026-04-23T16:27:54.354190"
+  },
+  {
+    "title": "Anker はすべての製品に AI を導入するために独自のチップを開発しました",
+    "title_en": "Anker made its own chip to bring AI to all its products",
+    "body": "",
+    "score": 65,
+    "by": "Brajeshwar",
+    "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+    "fetched_at": "2026-04-23T16:27:55.621840"
+  },
+  {
+    "title": "メタ従業員は、AI をトレーニングするための必須プログラムをめぐって憤慨している",
+    "title_en": "Meta employees are up in arms over a mandatory program to train AI on their",
+    "body": "",
+    "score": 111,
+    "by": "latein",
+    "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "fetched_at": "2026-04-23T16:27:57.002095"
+  },
+  {
+    "title": "米国では2025年に図書​​館で禁止された書籍が過去最高の5,668冊に達したと当局が発表",
+    "title_en": "US saw record high of 5,668 books banned in libraries in 2025, says agency",
+    "body": "",
+    "score": 53,
+    "by": "vinni2",
+    "url": "https://www.theguardian.com/us-news/2026/apr/22/us-libraries-banned-books",
+    "fetched_at": "2026-04-23T16:27:59.309917"
+  },
+  {
+    "title": "HN に伝えてください: AI にはうんざりです",
+    "title_en": "Tell HN: I'm sick of AI everything",
+    "body": "少し前に、私はもう耐えられなくなったので、Facebook の使用をやめました。まったくうんざりだ。正直に言うと、AI でそこに到達しています。現時点では、AI 関連のものはすべてブラウザ レベルでブロックすることを希望します。",
+    "score": 327,
+    "by": "jonthepirate",
+    "url": "https://news.ycombinator.com/item?id=47857461",
+    "fetched_at": "2026-04-23T16:28:01.989098"
+  },
+  {
+    "title": "過剰編集とは、モデルが必要以上にコードを変更することを指します。",
+    "title_en": "Over-editing refers to a model modifying code beyond what is necessary",
+    "body": "",
+    "score": 345,
+    "by": "pella",
+    "url": "https://nrehiew.github.io/blog/minimal_editing/",
+    "fetched_at": "2026-04-23T16:28:03.257393"
+  },
+  {
+    "title": "Apple は DMA 相互運用性要求を無視し、自身のドキュメントと矛盾します",
+    "title_en": "Apple ignores DMA interoperability requests and contradicts own documentation",
+    "body": "",
+    "score": 228,
+    "by": "kirschner",
+    "url": "https://fsfe.org/news/2026/news-20260420-01.html",
+    "fetched_at": "2026-04-23T16:28:05.181316"
+  },
+  {
+    "title": "「現状は持続不可能だ」：カルシへの厳しい監視、ポリマーケットは爆発",
+    "title_en": "'The status quo is unsustainable': scrutiny of Kalshi, Polymarket explodes",
+    "body": "",
+    "score": 14,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.politico.com/news/2026/04/01/congress-kalshi-polymarket-regulation-00852370",
+    "fetched_at": "2026-04-23T16:28:06.847235"
+  },
+  {
+    "title": "Show HN: VidStudio、ファイルをアップロードしないブラウザベースのビデオエディター",
+    "title_en": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "body": "こんにちは、HNさん\n私は、ブラウザーで動作するプライバシー重視のビデオ エディターである VidStudio を構築しました。できる限りスムーズに行うよう努めたので、アカウントやアップロードはありません。すべてがあなたの上に永続化されます\n機能の一部: マルチトラック タイムライン、フレームアキュレート シーク、MP4 エクスポート、オーディオ、ビデオ、画像、テキスト トラック、WebGL でサポートされたキャンバス (利用可能な場合)。モバイルでも動作します。内部では、WebCodecs がタイムラインの再生とスクラビングのフレーム デコードを処理します。これにより、ブラウザがサポートしている場合はハードウェア デコーダ上でデコードが実行されるため、シークの応答性が向上します。\nWebAssembly にコンパイルされた FFmpeg は、最終的なエンコード、形式変換、および WebCodecs がカバーしないあらゆるものを処理します。レンダリングは WebGL キャンバス上の Pixi.js を経由し、WebGL が有効な場合はソフトウェア フォールバックを使用します。\n利用できません。プロジェクトは IndexedDB に存在し、重い作業は Web Workers で実行されるため、エクスポート中に UI の応答性が維持されます。パイプライン全体をクライアント側に維持することに伴うトレードオフに関する技術的な質問に喜んで答えます。フィードバックは歓迎です。リンク: https://vidstudio.app/video-editor",
+    "score": 294,
+    "by": "kolx",
+    "url": "https://vidstudio.app/video-editor",
+    "fetched_at": "2026-04-23T16:28:09.295825"
+  }
+]
